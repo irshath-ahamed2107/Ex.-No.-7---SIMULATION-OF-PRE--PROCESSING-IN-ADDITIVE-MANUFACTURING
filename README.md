@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 29/11/24
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,20 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+
+![CAD 1 updated](https://github.com/user-attachments/assets/78ec66f3-edb4-404c-8758-cd83be3b72aa)
+![CAD 2 updated](https://github.com/user-attachments/assets/053e2337-b976-4688-a6d0-72a00275d547)
+![CAD 3 updated](https://github.com/user-attachments/assets/512a0e9d-d00f-4fcc-8150-eed15362eaad)
+
+
 
 ## Output:
 
-### Name:
-### Register Number:
+![Virtual Labs Empd](https://github.com/user-attachments/assets/a7ff3151-ca31-482d-a724-1e4a23c6cf61)
+
+
+### Name: Irshath Ahamed N
+### Register Number: 24900836
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
