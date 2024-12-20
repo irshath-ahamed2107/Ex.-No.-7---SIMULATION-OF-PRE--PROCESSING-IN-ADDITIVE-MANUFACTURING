@@ -47,8 +47,8 @@
 
 ![WhatsApp Image 2024-12-04 at 22 49 48_6e4197ce](https://github.com/user-attachments/assets/33d00433-9b00-4fd8-9bae-7ec9895e739e)
 
-### Name:W Allen Johnston Ozario
-### Register Number:24900645
+### Name:N Irshath Ahamed N
+### Register Number:24900836
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
